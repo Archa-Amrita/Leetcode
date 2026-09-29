@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Archa-Amrita/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Archa-Amrita/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Archa-Amrita/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Archa-Amrita/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
