@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Archa-Amrita/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Archa-Amrita/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Archa-Amrita/Leetcode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Archa-Amrita/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Archa-Amrita/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Archa-Amrita/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
